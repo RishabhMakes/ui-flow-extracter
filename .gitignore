@@ -51,14 +51,14 @@ unique_frames/
 output/
 
 # Video files (optional - uncomment if you don't want to track video files)
-# *.mp4
-# *.avi
-# *.mov
-# *.mkv
-# *.wmv
-# *.flv
-# *.webm
-# *.m4v
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.m4v
 
 # Temporary files
 *.tmp
